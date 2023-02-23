@@ -16,11 +16,11 @@ This repository was inspired by the need to build a text editor.
 
 ## Installation
 
-To install this project clone the repository.
+To install this project clone the repository. You will also need to instal the dependencies
 
 ## Usage
 
-
+<img width="1277" alt="Screenshot 2023-02-23 at 3 04 02 PM" src="https://user-images.githubusercontent.com/93955240/221018195-c934f231-d4a4-478f-8702-41ff79bf7bd5.png">
 
 ## License
 
